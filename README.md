@@ -6,6 +6,8 @@ Welcome to the PCI2Nano Reference Platform repo. In this repo you'll find an ine
 
 The design collateral that is included with this repo are the kicad design files for the PCI2Nano breakout board and a Quartus project that contains all the correct PCI pinout constraints for the PCI2Nano breakout board. This repo does not contain an actual PCI core written in verilog. Such a PCI core shall be released in a separate repo apart from this reference platform.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 # Reference Platform Parts List
 | Part |  Description| Price | 
 |--|--|--|
@@ -23,7 +25,6 @@ The design collateral that is included with this repo are the kicad design files
 4) Connect the PCI side of the PCI2Nano onto the PEX1PCI1, make sure it is connected in the orientation as indicated by the silk screen. The arrow indicating the chassis side should be pointed to the externel side of the PEX1PCI1
 
 # PCB board
-
 There is a small amount of soldering involved with the PCB board to connect the 100mil IDC socket to the PCB board.
 
 # Parts
