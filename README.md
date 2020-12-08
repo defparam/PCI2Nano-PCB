@@ -1,6 +1,6 @@
 # PCI2Nano Reference Platform
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image6.jpg =550x)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image6.jpg" width="550">
 
 Welcome to the PCI2Nano Reference Platform repo. In this repo you'll find an inexpensive suggested Reference Platform for designing and testing PCI functions on a DE0-Nano FPGA to an x86 host. I have personally built/connected/tested every single one of these components and can confirm they work for fast iterative PCI development.
 
@@ -29,20 +29,20 @@ There is a small amount of soldering involved with the PCB board to connect the 
 # Parts
 The DE0-Nano:
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image1.jpg)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image1.jpg" width="500">
 
 The PCI2Nano PCB:
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image2.jpg = x500)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image2.jpg" width="500">
 
 The PEX1PCI1 PCIe-2-PCI Bridge:
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image3.jpg)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image3.jpg" width="500">
 
 The Seeed Odyssey X86J4105 SBC:
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image4.jpg = x400)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image4.jpg" width="400">
 
 The M.2 Key M Extender PCIE x16:
 
-![](https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image5.jpg = x600)
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image5.jpg" width="600">
