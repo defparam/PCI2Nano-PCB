@@ -11,7 +11,7 @@ The design collateral that is included with this repo are the kicad design files
 # Demo
 My l337-Communication Controller
 
-<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image7.jpg" width="550">
+<img src="https://raw.githubusercontent.com/defparam/PCI2Nano/main/images/image7.jpg" width="350">
 
 # Reference Platform Parts List
 | Part |  Description| Price | 
