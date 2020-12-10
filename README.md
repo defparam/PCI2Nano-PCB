@@ -4,7 +4,7 @@
 
 Welcome to the PCI2Nano Reference Platform repo. In this repo you'll find an inexpensive suggested Reference Platform for designing and testing PCI functions on a DE0-Nano FPGA to an x86 host. I have personally built/connected/tested every single one of these components and can confirm they work for fast iterative PCI development.
 
-The design collateral that is included with this repo are the kicad design files for the PCI2Nano breakout board and a Quartus project that contains all the correct PCI pinout constraints for the PCI2Nano breakout board. This repo does not contain an actual PCI core written in verilog. For an example PCI core implementation with a UART check out the PCI2Nano-RTL repo here: https://github.com/defparam/PCI2Nano-PCB/
+The design collateral that is included with this repo are the kicad design files for the PCI2Nano breakout board and a Quartus project that contains all the correct PCI pinout constraints for the PCI2Nano breakout board. This repo does not contain an actual PCI core written in verilog. For an example PCI core implementation with a UART check out the PCI2Nano-RTL repo here: https://github.com/defparam/PCI2Nano-RTL/
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
